@@ -1,0 +1,5 @@
+{
+  "name": "Micro-SaaS Ideation Dashboard",
+  "description": "A workflow tool to discover, validate, and specify Micro-SaaS business ideas using the Gemini API.",
+  "requestFramePermissions": []
+}
